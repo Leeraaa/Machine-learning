@@ -4,8 +4,6 @@
 
 ## Overview
 
-This project was developed as part of the Machine Learning course at HIT (Holon Institute of Technology).
-
 The goal of the project is to predict 5-year mortality risk based on patient clinical and laboratory data.
 
 ## Dataset
